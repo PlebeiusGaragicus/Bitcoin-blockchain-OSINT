@@ -25,3 +25,8 @@ Let's try it!
 replace bitcoin-core.cli with bitcoin-cli, depending...
 
 have fun.
+
+
+# TODO - see if I can make this script faster by saving a call to `getblockhash` and retaining `nextblockhash` that is returned in the JSON
+
+... more to come
